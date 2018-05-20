@@ -1,0 +1,8 @@
+bokeh==0.12.13
+ipython==6.2.1
+ipywidgets==7.1.0
+numpy==1.13.3
+pandas==0.21.1
+parameterized
+pyspark==2.3.0
+scipy==1.0.0
